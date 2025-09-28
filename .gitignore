@@ -1,7 +1,7 @@
 # Rails specific
-user-matching-api/log/*
-user-matching-api/tmp/*
-user-matching-api/storage/*
+user-matching-api/log/
+user-matching-api/tmp/
+user-matching-api/storage/
 user-matching-api/.env
 user-matching-api/.env.local
 user-matching-api/.env.*.local
