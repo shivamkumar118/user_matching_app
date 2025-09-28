@@ -1,0 +1,25 @@
+# Rails specific
+user-matching-api/log/*
+user-matching-api/tmp/*
+user-matching-api/storage/*
+user-matching-api/.env
+user-matching-api/.env.local
+user-matching-api/.env.*.local
+user-matching-api/config/master.key
+user-matching-api/config/credentials.yml.enc
+
+# Node.js specific
+user-matching-web/node_modules/
+user-matching-web/.env
+user-matching-web/.env.local
+user-matching-web/.env.*.local
+user-matching-web/dist/
+user-matching-web/build/
+
+# General
+.DS_Store
+*.log
+*.tmp
+*.swp
+*.swo
+*~
